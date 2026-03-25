@@ -1,0 +1,8 @@
+# repos.txt — one repo name per line (owner = roebi, hardcoded in workflow)
+# Lines starting with # are ignored
+
+agent-skills
+new-work-skills
+new-work-skills-dev
+aider-skills
+roebi-ai.ch
