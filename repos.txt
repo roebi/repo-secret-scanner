@@ -5,4 +5,4 @@ agent-skills
 new-work-skills
 new-work-skills-dev
 aider-skills
-roebi-ai.ch
+roebi-ai
